@@ -51,6 +51,12 @@ footer {
         padding: 10px;
     }
 
+nav {
+    background-color: #444;
+    color: white;
+    padding: 20px;
+}
+    
     nav ul li {
         margin-right: 30px;
         width: 100%;
